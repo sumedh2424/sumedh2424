@@ -3,7 +3,7 @@
 <h2> Hello 🙋‍♂️, I'm <a href='https://github.com/sumedh2424'>Sumedh</a></h2>
 
 <p align='justify'>
-I am an Associate Software Engineer at Veritas Technologies. Despite my familiarity with a variety of computer languages, Python development is where I feel most at ease. I am a financial tinkerer and have been trading for the past 10 years, in addition to having an interest in the field of software development. With the help of my programming skills, I am fixated on trying to make finance, particularly the stock markets, simpler for retail traders and investors. Also, I am a part-time financial blogger.
+I am an Associate Software Engineer at Accenture. Despite my familiarity with a variety of computer languages, Python development is where I feel most at ease. I am a financial tinkerer and have been trading for the past 10 years, in addition to having an interest in the field of software development. With the help of my programming skills, I am fixated on trying to make finance, particularly the stock markets, simpler for retail traders and investors. Also, I am a part-time financial blogger.
 Feel free to browse my repos, I hope you will find something really interesting! :octocat:
 <br></br>
 <img align="right" src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" href="!#">
@@ -30,7 +30,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
           </a>
         </td>
         <td>
-          <a href="https://instagram.com/_dev_finwiz_?igshid=YmMyMTA2M2Y=">
+          <a href="https://instagram.com/shutterrstories?igshid=YmMyMTA2M2Y=">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
           </a>
         </td>
