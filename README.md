@@ -1,6 +1,6 @@
 <img src="https://rand-xyz.now.sh/api/hello">
 <img align="left" src="https://github.com/devfinwiz/devfinwiz/raw/main/AVATAR.PNG" width="276">
-<h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a></h2>
+<h2> Hello 🙋‍♂️, I'm <a href='https://github.com/sumedh2424'>Sumedh</a></h2>
 
 <p align='justify'>
 I am an Associate Software Engineer at Veritas Technologies. Despite my familiarity with a variety of computer languages, Python development is where I feel most at ease. I am a financial tinkerer and have been trading for the past 10 years, in addition to having an interest in the field of software development. With the help of my programming skills, I am fixated on trying to make finance, particularly the stock markets, simpler for retail traders and investors. Also, I am a part-time financial blogger.
@@ -21,12 +21,12 @@ Feel free to browse my repos, I hope you will find something really interesting!
       <tr>
         <td rowspan=4>
           <a href="#">
-            <img src="https://github-readme-stats.vercel.app/api?username=devfinwiz&show_icons=true&theme=react"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=sumedh2424&show_icons=true&theme=react"> 
           </a>
         </td>
         <td rowspan=4>
           <a href="#">
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=devfinwiz&theme=black-ice"> 
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=sumedh2424&theme=black-ice"> 
           </a>
         </td>
         <td>
@@ -51,7 +51,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
       </tr>
       <tr>
         <td>
-          <a href="https://leetcode.com/dev_finwiz/">
+          <a href="https://leetcode.com/sumaydh24/">
             <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
           </a>
         </td>
